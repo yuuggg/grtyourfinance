@@ -1,1 +1,1 @@
-# grtyourfinance
+# getyourfinance
